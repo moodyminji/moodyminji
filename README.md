@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Al Minji</h1>
-<h3 align="center">A Curious Junior Full Stack Developer</h3>
+<h3 align="center">A Curious Junior Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moodyminji&label=Profile%20views&color=0e75b6&style=flat" alt="moodyminji" /> </p>
 
