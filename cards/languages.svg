@@ -32,29 +32,29 @@
   <text class="title" x="22" y="34">Most Used Languages</text>
   <clipPath id="barclip"><rect x="22" y="50" width="376" height="8" rx="4"/></clipPath>
    <rect class="track" x="22" y="50" width="376" height="8" rx="4"/>
-   <g clip-path="url(#barclip)"><rect x="22.00" y="50" width="173.12" height="8" fill="#3178c6"/><rect x="195.12" y="50" width="54.08" height="8" fill="#b07219"/><rect x="249.21" y="50" width="43.17" height="8" fill="#DA5B0B"/><rect x="292.38" y="50" width="36.07" height="8" fill="#3572A5"/><rect x="328.45" y="50" width="31.10" height="8" fill="#e34c26"/><rect x="359.55" y="50" width="22.68" height="8" fill="#f1e05a"/></g><g class="fade" style="animation-delay:0ms">
-      <circle cx="27" cy="90" r="5" fill="#3178c6"/>
-      <text class="value" x="38" y="94">TypeScript</text>
-      <text class="label" x="200" y="94" text-anchor="end">46.0%</text>
+   <g clip-path="url(#barclip)"><rect x="22.00" y="50" width="102.24" height="8" fill="#b07219"/><rect x="124.24" y="50" width="88.39" height="8" fill="#3178c6"/><rect x="212.63" y="50" width="81.61" height="8" fill="#DA5B0B"/><rect x="294.24" y="50" width="58.79" height="8" fill="#e34c26"/><rect x="353.02" y="50" width="18.29" height="8" fill="#ff3e00"/><rect x="371.32" y="50" width="12.67" height="8" fill="#3572A5"/></g><g class="fade" style="animation-delay:0ms">
+      <circle cx="27" cy="90" r="5" fill="#b07219"/>
+      <text class="value" x="38" y="94">Java</text>
+      <text class="label" x="200" y="94" text-anchor="end">27.2%</text>
     </g><g class="fade" style="animation-delay:80ms">
-      <circle cx="217" cy="90" r="5" fill="#b07219"/>
-      <text class="value" x="228" y="94">Java</text>
-      <text class="label" x="390" y="94" text-anchor="end">14.4%</text>
+      <circle cx="217" cy="90" r="5" fill="#3178c6"/>
+      <text class="value" x="228" y="94">TypeScript</text>
+      <text class="label" x="390" y="94" text-anchor="end">23.5%</text>
     </g><g class="fade" style="animation-delay:160ms">
       <circle cx="27" cy="122" r="5" fill="#DA5B0B"/>
       <text class="value" x="38" y="126">Jupyter Notebook</text>
-      <text class="label" x="200" y="126" text-anchor="end">11.5%</text>
+      <text class="label" x="200" y="126" text-anchor="end">21.7%</text>
     </g><g class="fade" style="animation-delay:240ms">
-      <circle cx="217" cy="122" r="5" fill="#3572A5"/>
-      <text class="value" x="228" y="126">Python</text>
-      <text class="label" x="390" y="126" text-anchor="end">9.6%</text>
+      <circle cx="217" cy="122" r="5" fill="#e34c26"/>
+      <text class="value" x="228" y="126">HTML</text>
+      <text class="label" x="390" y="126" text-anchor="end">15.6%</text>
     </g><g class="fade" style="animation-delay:320ms">
-      <circle cx="27" cy="154" r="5" fill="#e34c26"/>
-      <text class="value" x="38" y="158">HTML</text>
-      <text class="label" x="200" y="158" text-anchor="end">8.3%</text>
+      <circle cx="27" cy="154" r="5" fill="#ff3e00"/>
+      <text class="value" x="38" y="158">Svelte</text>
+      <text class="label" x="200" y="158" text-anchor="end">4.9%</text>
     </g><g class="fade" style="animation-delay:400ms">
-      <circle cx="217" cy="154" r="5" fill="#f1e05a"/>
-      <text class="value" x="228" y="158">JavaScript</text>
-      <text class="label" x="390" y="158" text-anchor="end">6.0%</text>
+      <circle cx="217" cy="154" r="5" fill="#3572A5"/>
+      <text class="value" x="228" y="158">Python</text>
+      <text class="label" x="390" y="158" text-anchor="end">3.4%</text>
     </g>
 </svg>
