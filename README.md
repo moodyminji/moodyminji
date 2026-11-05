@@ -1,27 +1,51 @@
-<h1 align="center">Hi 👋, I'm Mohammed Al Minji</h1>
-<h3 align="center">A Curious Junior Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moodyminji&label=Profile%20views&color=0e75b6&style=flat" alt="moodyminji" /> </p>
+# Hi 👋, I'm Mohammed Al Minji
 
-- 🔭 I’m currently working on [Project RoamAura](https://github.com/moodyminji/Automated-Travel-Itinerary-Generator-SparkToCode-Project)
+<a href="https://github.com/moodyminji">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=A+curious+junior+developer;Full-stack+%C2%B7+AI+%C2%B7+Mobile;Building+NextLine+%E2%80%94+my+capstone+project" alt="A curious junior developer" />
+</a>
 
-- 🌱 I’m currently learning **Full Stack Development , AI Development and Mobile App Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/moodyminji/](https://github.com/moodyminji/)
-
-- 💬 Ask me about **React, Next JS and Java**
-
-- 📫 How to reach me **mohaff990@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/moodyminji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moodyminji" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed-al-minji-862423236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-al-minji-862423236" height="30" width="40" /></a>
+<p>
+  <a href="https://linkedin.com/in/mohammed-al-minji-862423236"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/moodyminji"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:mohaff990@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=moodyminji&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moodyminji&show_icons=true&locale=en" alt="moodyminji" /></p>
+### 🧭 About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moodyminji&" alt="moodyminji" /></p>
+- 🔭 Currently building **[NextLine](https://github.com/moodyminji/Project-Nextline)**: a retrieval-augmented diagnostic framework for mobile device fault classification, repair guidance and authenticity scoring
+- 🧳 Previously built **[RoamAura](https://github.com/moodyminji/Automated-Travel-Itinerary-Generator-SparkToCode-Project)**: an automated travel itinerary generator
+- 🌱 Learning **full-stack development, AI development and mobile app development**
+- 💬 Ask me about **React, Next.js and Java**
+- 📫 Reach me at **mohaff990@gmail.com**
+
+### 🛠️ Languages & tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,nodejs,tailwind,py,cs,html,css,mysql,firebase,docker,git,linux,bash,androidstudio,heroku&perline=10" alt="Java, Spring, TypeScript, JavaScript, React, Next.js, Node.js, Tailwind, Python, C#, HTML, CSS, MySQL, Firebase, Docker, Git, Linux, Bash, Android Studio, Heroku" />
+  </a>
+</p>
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="./cards/stats.svg" alt="GitHub stats" height="195" />
+  <img src="./cards/languages.svg" alt="Most used languages" height="195" />
+</p>
+<p align="center">
+  <img src="./cards/streak.svg" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./cards/snake-dark.svg" />
+    <img src="./cards/snake.svg" alt="Contribution graph snake animation" />
+  </picture>
+</p>
+
+<sub><p align="center">Cards are rebuilt daily by <a href="./.github/workflows/profile-cards.yml">a GitHub Action</a>, so they don't depend on a public stats server.</p></sub>

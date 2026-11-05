@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="195" viewBox="0 0 420 195" role="img" aria-label="Most Used Languages">
+  <title>Most Used Languages</title>
+  <style>
+    .bg { fill: #ffffff; stroke: #d0d7de; }
+    .title { font: 600 15px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #0969da; }
+    .label { font: 400 13px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #57606a; }
+    .value { font: 600 13px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #1f2328; }
+    .big { font: 700 26px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #1f2328; }
+    .hl { fill: #0969da; }
+    .muted { font: 400 11px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #6e7781; }
+    .icon { fill: #0969da; }
+    .track { fill: #eaeef2; }
+    .ring { stroke: #0969da; }
+    .divider { stroke: #d0d7de; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; stroke: #30363d; }
+      .title { fill: #58a6ff; }
+      .label { fill: #8b949e; }
+      .value, .big { fill: #e6edf3; }
+      .hl { fill: #58a6ff; }
+      .muted { fill: #7d8590; }
+      .icon { fill: #58a6ff; }
+      .track { fill: #21262d; }
+      .ring { stroke: #58a6ff; }
+      .divider { stroke: #30363d; }
+    }
+    .fade { animation: fade .5s ease-out both; }
+    @keyframes fade { from { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .fade { animation: none; } }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" rx="8" width="419" height="194"/>
+  <text class="title" x="22" y="34">Most Used Languages</text>
+  <clipPath id="barclip"><rect x="22" y="50" width="376" height="8" rx="4"/></clipPath>
+   <rect class="track" x="22" y="50" width="376" height="8" rx="4"/>
+   <g clip-path="url(#barclip)"><rect x="22.00" y="50" width="173.12" height="8" fill="#3178c6"/><rect x="195.12" y="50" width="54.08" height="8" fill="#b07219"/><rect x="249.21" y="50" width="43.17" height="8" fill="#DA5B0B"/><rect x="292.38" y="50" width="36.07" height="8" fill="#3572A5"/><rect x="328.45" y="50" width="31.10" height="8" fill="#e34c26"/><rect x="359.55" y="50" width="22.68" height="8" fill="#f1e05a"/></g><g class="fade" style="animation-delay:0ms">
+      <circle cx="27" cy="90" r="5" fill="#3178c6"/>
+      <text class="value" x="38" y="94">TypeScript</text>
+      <text class="label" x="200" y="94" text-anchor="end">46.0%</text>
+    </g><g class="fade" style="animation-delay:80ms">
+      <circle cx="217" cy="90" r="5" fill="#b07219"/>
+      <text class="value" x="228" y="94">Java</text>
+      <text class="label" x="390" y="94" text-anchor="end">14.4%</text>
+    </g><g class="fade" style="animation-delay:160ms">
+      <circle cx="27" cy="122" r="5" fill="#DA5B0B"/>
+      <text class="value" x="38" y="126">Jupyter Notebook</text>
+      <text class="label" x="200" y="126" text-anchor="end">11.5%</text>
+    </g><g class="fade" style="animation-delay:240ms">
+      <circle cx="217" cy="122" r="5" fill="#3572A5"/>
+      <text class="value" x="228" y="126">Python</text>
+      <text class="label" x="390" y="126" text-anchor="end">9.6%</text>
+    </g><g class="fade" style="animation-delay:320ms">
+      <circle cx="27" cy="154" r="5" fill="#e34c26"/>
+      <text class="value" x="38" y="158">HTML</text>
+      <text class="label" x="200" y="158" text-anchor="end">8.3%</text>
+    </g><g class="fade" style="animation-delay:400ms">
+      <circle cx="217" cy="154" r="5" fill="#f1e05a"/>
+      <text class="value" x="228" y="158">JavaScript</text>
+      <text class="label" x="390" y="158" text-anchor="end">6.0%</text>
+    </g>
+</svg>
